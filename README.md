@@ -1,41 +1,41 @@
 # 3D Object Maker
 
-3D Object Maker compatible with models in STL, OBJ and 3DS format. You can export your work ready to print in 3D (STL format) or to keep working on it later (SCENE format).
+Производитель 3D-объектов 3D Object Maker, совместим с моделями в форматах STL, OBJ и 3DS. Вы можете экспортировать свою работу, готовую к печати в 3D (формат STL) или продолжить работать над ней позже (формат SCENE).
 
 ![alt screenshot](https://raw.githubusercontent.com/lrusso/3DObjectMaker/master/3DObjectMaker.png)
 
-## Web version
+## Web-версия
 https://lrusso.github.io/3DObjectMaker/3DObjectMaker.htm
 
-## App version
+## Приложение
 https://play.google.com/store/apps/details?id=ar.com.lrusso.dobjectmaker
 
-## HOW TO USE THIS SOFTWARE
+## КАК ИСПОЛЬЗОВАТЬ ЭТО ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
-Add geometric shapes (from the right panel) to the plataform to create your own object. Also you can import STL, OBJ and 3DS models to the plataform. Later, export the object as STL file (for 3D printing) or as a SCENE file (to keep working on it later).
+Чтобы создать ваш собственный объект(сцену на платформе), к платформе добавьте геометрические формы/фигуры(из правой панели). Также можете на платформу импортировать модели в форматах STL, OBJ и 3DS. Позже, свою работу(сцену на платформе) экспортируйте в виде файла в формате STL(для 3D-печати) или ее экспортируйте в виде файла в формате сцены SCENE(для продолжения работы над сценой позже).
 
-## HOW TO CUT OBJECTS
+## КАК ОБРЕЗАТЬ ОБЪЕКТЫ
 
-1) Add object A to the plaform.
-2) Add object B to the platform.
-3) Select object B.
-4) Select the material 'Hollow' (from the right panel).
-5) Export the work as a STL file (the object B will erase every object, partially or entirely, that is within it's space). Depending of how complex are the objects, the device may take a few minutes to perform the task.
+1) На платформу добавьте объект A.
+2) На платформу добавьте объект B.
+3) Выберите объект B.
+4) Из правой панели выберите материал 'Пустота'('Hollow').
+5) Свою работу(сцену на платформе) экспортируйте в виде файла в формате STL Экспортируйте работу как файл STL (объект B сотрет каждый объект, частично или полностью, который находится внутри пространства объекта  B). В зависимости от того, насколько сложными являются объекты, устройство может занять несколько минут, чтобы выполнить задачу.
 
 ![alt hollow](https://raw.githubusercontent.com/lrusso/3DObjectMaker/master/3DObjectMakerHollow.png)
 
-## HOW TO FUSION OBJECTS
+## КАК ОБЪЕДИНИТЬ ОБЪЕКТЫ
 
-1) Add object A to the plaform.
-2) Add object B to the platform.
-3) Select object B.
-4) Select any material (except 'Hollow') from the right panel.
+1) На платформу добавьте объект A.
+2) На платформу добавьте объект B.
+3) Выберите объект B.
+4) Из правой панели выберите любой материал(за исключением 'Пустота'('Hollow')).
 5) Export the work as a STL file.
 
 ![alt fusion](https://raw.githubusercontent.com/lrusso/3DObjectMaker/master/3DObjectMakerFusion.png)
 
-## HOW TO MOVE AROUND THE PLATFORM
+## КАК ПЕРЕМЕСТИТЬ ПЛАТФОРМУ
 
-- In the App: One finger to rotate, two fingers to zoom in and out and three fingers to move the camera.
+- В Приложении: Один палец, чтобы вращать, два пальца, чтобы увеличить и уменьшить масштаб и три пальца, чтобы переместить камеру.
 
-- In the Web: With your mouse, hold left-click and move the mouse to rotate, use the mouse wheel to zoom in and out and hold the right-click and move the mouse to move the camera.
+- В Web-версии: С нажмите левую кнопку мыши и перемещайте мышь, чтобы повернуть, используйте колесо мыши, чтобы увеличить и уменьшить масштаб, и нажмите правую кнопку мыши и перемещайте мышь, чтобы переместить камеру.
